@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuntu-assist" alt="Ubuntu Assist" /></a> </p>
 
-- 🔭 I’m currently working on **smicro-services professional class**
-
-- 👨‍💻 All of my projects are available at [https://aliboucoding.com/courses](https://aliboucoding.com/courses)
-
-- 📝 I regularly write articles on [https://aliboucoding.com](https://aliboucoding.com)
+- 🔭 I’m currently working on **a dynamically configurable data processor**
 
 - 💬 Ask me about **Spring, Java, Solidity, Foundry, Docker, Kubernetes, AWS, React, Testing, ....**
 
-- 📫 How to reach me **contact@aliboucoding.com**
+- 📫 How to reach me **duclair.fopa@hotmail.com**
 
 - ⚡ Fun fact **Make learning funny**
 
