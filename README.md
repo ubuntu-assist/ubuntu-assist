@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Bouali</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia living in Germany</h3> 
+<h1 align="center">Hi 👋, I'm Duclair Fopa</h1>
+<h3 align="center">A passionate Software Engineer from Cameroon living in Dschang</h3> 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2101QXR)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuntu-assist&label=Profile%20views&color=0e75b6&style=flat" alt="Ubuntu Assist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-bouali" alt="ali-bouali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuntu-assist" alt="Ubuntu Assist" /></a> </p>
 
 - 🔭 I’m currently working on **smicro-services professional class**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://aliboucoding.com](https://aliboucoding.com)
 
-- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
+- 💬 Ask me about **Spring, Java, Solidity, Foundry, Docker, Kubernetes, AWS, React, Testing, ....**
 
 - 📫 How to reach me **contact@aliboucoding.com**
 
