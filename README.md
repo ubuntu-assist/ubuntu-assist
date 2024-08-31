@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/duclair-fopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
 <a href="https://instagram.com/fopaduclair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://twitter.com/fopaduclair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fopaduclair" height="30" width="40" /></a>
+<a href="https://twitter.com/fopaduclair" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="fopaduclair" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
