@@ -23,7 +23,7 @@
 </p>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,docker,express,git,github,haskell,idea,ai,java,latex,linux,mongodb,mysql,netlify,nodejs,npm,postman,react,spring,stackoverflow,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,docker,express,git,github,haskell,idea,ai,java,latex,linux,mongodb,mysql,netlify,nodejs,npm,postman,react,spring,stackoverflow,ts,vscode,vite,vercel,tailwind,solidity,maven,linkedin,githubactions)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/ubuntu-assist">
