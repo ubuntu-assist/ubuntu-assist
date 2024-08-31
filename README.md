@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duclair Fopa</h1>
 <h3 align="center">A passionate Software Engineer from Cameroon living in Dschang</h3> 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2101QXR)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuntu-assist&label=Profile%20views&color=0e75b6&style=flat" alt="Ubuntu Assist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuntu-assist" alt="Ubuntu Assist" /></a> </p>
