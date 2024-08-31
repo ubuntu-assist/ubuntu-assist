@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Make learning funny**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/bouali-ali-33026072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4836701/bouali-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4836701/bouali-ali" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,docker,express,git,github,haskell,idea,ai,java,latex,linux,mongodb,mysql,netlify,nodejs,npm,postman,react,spring,stackoverflow,ts)](https://skillicons.dev)
 
 <div align="center">
 <a href="https://github.com/ubuntu-assist">
