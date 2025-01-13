@@ -1,35 +1,193 @@
-<h1 align="center">Hi 👋, I'm Duclair Fopa</h1>
-<h3 align="center">A passionate Software Engineer from Cameroon living in Dschang</h3> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuntu-assist&label=Profile%20views&color=0e75b6&style=flat" alt="Ubuntu Assist" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuntu-assist" alt="Ubuntu Assist" /></a> </p>
-
-- 🔭 I’m currently working on **a dynamically configurable data processor**
-
-- 💬 Ask me about **Spring, Java, Solidity, Foundry, Docker, Kubernetes, AWS, React, Testing, ....**
-
-- 📫 How to reach me **duclair.fopa@hotmail.com**
-
-- ⚡ Fun fact **Make learning funny**
-
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/duclair-fopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
-<a href="https://instagram.com/fopaduclair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://x.com/FopaD63338" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="fopaduclair" height="30" width="40" /></a>
-</p>
-
-## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,docker,express,git,github,haskell,idea,ai,java,latex,linux,mongodb,mysql,netlify,nodejs,npm,postman,react,spring,stackoverflow,ts,vscode,vite,vercel,tailwind,solidity,maven,linkedin,githubactions,c,graphql,ubuntu,windows,postgres,atom,regex,styledcomponents,svg,yarn,pnpm,sublime)](https://skillicons.dev)
-
 <div align="center">
-<a href="https://github.com/ubuntu-assist">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubuntu-assist&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ubuntu-assist&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ubuntu-assist&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ubuntu-assist&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubuntu-assist&theme=2077" height="180em" />
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Duclair%20Fopa&desc=Software%20Engineer%20%7C%20Tech%20Innovator%20%7C%20Digital%20Craftsman&animation=fadeIn&fontColor=fff&strokeWidth=2&descSize=20&fontSize=60&descAlignY=62&textBg=false)
+
+[![Animated Typing](https://readme-typing-svg.demolab.com?font=Philosopher&weight=800&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Building+Digital+Dreams+%F0%9F%8C%8C;Transforming+Ideas+into+Elegant+Solutions+%E2%9C%A8;Where+Code+Meets+Art+%F0%9F%8E%A8)](https://git.io/typing-svg)
+
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubuntu-assist&" alt="ubuntu-assist" /></p>
+<div align="center">
+  
+[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+
+</div>
+
+<!--BEGIN ALIEN ANIMATION-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="margin-top: -50px;">
+</div>
+<!--END ALIEN ANIMATION-->
+
+<h2 align="center">
+  
+```ascii
+🌟 Welcome to My Digital Universe 🌟
+```
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ubuntu-assist">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ubuntu-assist&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65">
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65">
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65">
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  
+```javascript
+const duclair = {
+    title: "Senior Software Engineer",
+    location: "Dschang, Cameroon 🌍",
+    currently: {
+        building: "Dynamically Configurable Data Processor 🔄",
+        learning: ["System Design", "Web3", "AI/ML"],
+        exploring: "Blockchain Architecture 🔗"
+    },
+    techStack: {
+        languages: ["Java", "JavaScript", "TypeScript", "Solidity", "Python"],
+        frontend: ["React", "Angular", "Next.js", "Tailwind CSS"],
+        backend: ["Spring Boot", "Node.js", "Express"],
+        cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
+        blockchain: ["Ethereum", "Foundry", "Smart Contracts"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"],
+        tools: ["Git", "Jenkins", "Maven", "Gradle"]
+    },
+    architecture: ["Microservices", "Event-Driven", "DDD"],
+    challenge: "Crafting elegant solutions to complex problems",
+    funFact: "I believe in making learning an adventure! 🚀"
+};
+```
+
+</div>
+
+<h2 align="center">🌌 Contribution Cosmos</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ubuntu-assist&custom_title=Contribution%20Galaxy&bg_color=0D1117&color=6A93CB&line=A7C7E7&point=FFFFFF&area=true&hide_border=true" width="100%">
+</div>
+
+<h2 align="center">⚡ GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubuntu-assist&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true&title_color=6A93CB&icon_color=A7C7E7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubuntu-assist&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&hide_border=true&title_color=6A93CB"/>
+</p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubuntu-assist&theme=transparent" width="100%">
+</div>
+
+<h2 align="center">🏆 GitHub Trophy Showcase</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ubuntu-assist&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+</div>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubuntu-assist&theme=radical&hide_border=true&background=0D1117&stroke=6A93CB&ring=A7C7E7&fire=FF6B6B" width="100%">
+</div>
+
+<h2 align="center">🎯 Weekly Development Breakdown</h2>
+
+<div align="center">
+
+```text
+Java         20 hrs 15 mins  ████████████░░░░░░░░  48.32%
+TypeScript   10 hrs 30 mins  ██████░░░░░░░░░░░░░░  23.76%
+Solidity     6 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  13.77%
+JavaScript   4 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░   8.47%
+Other        2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░   5.68%
+```
+
+</div>
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/duclair-fopa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
+  </a>
+  <a href="https://x.com/FopaD63338">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000">
+  </a>
+  <a href="https://instagram.com/fopaduclair">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F">
+  </a>
+  <a href="mailto:duclair.fopa@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4">
+  </a>
+</div>
+
+<h2 align="center">📚 Latest Blog Posts</h2>
+
+<div align="center">
+  
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable Microservices with Spring Boot](https://yourblog.com)
+- [Advanced Blockchain Development Patterns](https://yourblog.com)
+- [Cloud-Native Architecture Best Practices](https://yourblog.com)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+<h2 align="center">🎵 Vibing to</h2>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=53b14f&bar_color_cover=true" width="600">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs" width="600">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ubuntu-assist/count.svg" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65)
