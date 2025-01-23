@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Duclair%20Fopa&desc=Software%20Engineer%20%7C%20Tech%20Innovator%20%7C%20Digital%20Craftsman&animation=fadeIn&fontColor=fff&strokeWidth=2&descSize=20&fontSize=60&descAlignY=62&textBg=false)
