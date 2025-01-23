@@ -160,30 +160,6 @@ Other        2 hrs 58 mins   █░░░░░░░░░░░░░░░░
   </a>
 </div>
 
-<h2 align="center">📚 Latest Blog Posts</h2>
-
-<div align="center">
-  
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Spring Boot](https://yourblog.com)
-- [Advanced Blockchain Development Patterns](https://yourblog.com)
-- [Cloud-Native Architecture Best Practices](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
-<h2 align="center">🎵 Vibing to</h2>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=53b14f&bar_color_cover=true" width="600">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs" width="600">
-</div>
-
 <br>
 
 <div align="center">
