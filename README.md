@@ -1,7 +1,9 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Duclair%20Fopa&desc=Senior%20Software%20Engineer%20%26%20Blockchain%20Developer&animation=fadeIn&fontColor=6A93CB&strokeWidth=1&descSize=20&fontSize=50&descAlignY=75)
 
-[![Animated Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=846&height=100&lines=Building+Scalable+Solutions+and+Smart+Contract+Architectures;Transforming+Complex+Problems+into+Elegant+Code)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Duclair%20Fopa&color=gradient&desc=Senior%20Software%20Engineer%20%26%20Blockchain%20Developer&animation=fadeIn&fontColor=6A93CB&strokeWidth=1&descSize=20&fontSize=50&descAlignY=75)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6A93CB&center=true&vCenter=true&multiline=true&repeat=false&width=846&height=100&lines=Building+Scalable+Solutions+and+Smart+Contract+Architectures;Transforming+Complex+Problems+into+Elegant+Code)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
