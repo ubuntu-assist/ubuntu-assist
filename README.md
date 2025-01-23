@@ -125,9 +125,7 @@ const duclair = {
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubuntu-assist&theme=radical&hide_border=true&background=0D1117&stroke=6A93CB&ring=A7C7E7&fire=FF6B6B" width="100%">
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubuntu-assist&theme=radical&hide_border=true&background=0D1117&stroke=6A93CB&ring=A7C7E7&fire=FF6B6B)
 
 <h2 align="center">🎯 Weekly Development Breakdown</h2>
 
