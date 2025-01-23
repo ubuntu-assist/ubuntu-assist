@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Duclair%20Fopa&color=gradient&desc=Senior%20Software%20Engineer%20%26%20Blockchain%20Developer&animation=fadeIn&fontColor=6A93CB&strokeWidth=1&descSize=20&fontSize=50&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24,30&section=header&text=Duclair%20Fopa&desc=Senior%20Software%20Engineer%20•%20Blockchain%20Developer&animation=fadeIn&fontColor=fff&fontSize=40&descSize=20&fontAlignY=35&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6A93CB&center=true&vCenter=true&multiline=true&repeat=false&width=846&height=100&lines=Building+Scalable+Solutions+and+Smart+Contract+Architectures;Transforming+Complex+Problems+into+Elegant+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6A93CB&center=true&vCenter=true&repeat=true&width=800&lines=Full+Stack+Developer;Smart+Contract+Engineer;System+Architecture+Designer)](https://git.io/typing-svg)
 
 </div>
 
