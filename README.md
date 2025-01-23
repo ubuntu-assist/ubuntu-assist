@@ -1,9 +1,7 @@
 <div align="center">
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Duclair%20Fopa&desc=Senior%20Software%20Engineer%20%26%20Blockchain%20Developer&animation=fadeIn&fontColor=6A93CB&strokeWidth=1&descSize=20&fontSize=50&descAlignY=75)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Duclair%20Fopa&desc=Software%20Engineer%20%7C%20Tech%20Innovator%20%7C%20Digital%20Craftsman&animation=fadeIn&fontColor=fff&strokeWidth=2&descSize=20&fontSize=60&descAlignY=62&textBg=false)
-
-[![Animated Typing](https://readme-typing-svg.demolab.com?font=Philosopher&weight=800&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Building+Digital+Dreams+%F0%9F%8C%8C;Transforming+Ideas+into+Elegant+Solutions+%E2%9C%A8;Where+Code+Meets+Art+%F0%9F%8E%A8)](https://git.io/typing-svg)
-
+[![Animated Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=846&height=100&lines=Building+Scalable+Solutions+and+Smart+Contract+Architectures;Transforming+Complex+Problems+into+Elegant+Code)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
