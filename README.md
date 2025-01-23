@@ -91,43 +91,15 @@
 
 <br>
 
-<div align="center">
-  
-```javascript
-const duclair = {
-    title: "Senior Software Engineer",
-    location: "Dschang, Cameroon 🌍",
-    currently: {
-        building: "Dynamically Configurable Data Processor 🔄",
-        learning: ["System Design", "Web3", "AI/ML"],
-        exploring: "Blockchain Architecture 🔗"
-    },
-    techStack: {
-        languages: ["Java", "JavaScript", "TypeScript", "Solidity", "Python", "Rust"],
-        frontend: ["React", "Angular", "Next.js", "Tailwind CSS"],
-        backend: ["Spring Boot", "Node.js", "Express"],
-        cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-        blockchain: ["Ethereum", "Foundry", "Smart Contracts", "Web3.js", "Ethers.js", "OpenZeppelin"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        tools: ["Git", "Jenkins", "Maven", "Gradle"]
-    },
-    architecture: ["Microservices", "Event-Driven", "DDD"],
-    challenge: "Crafting elegant solutions to complex problems",
-    funFact: "I believe in making learning an adventure! 🚀"
-};
-```
-
-</div>
-
 <h2 align="center">📊 Smart Contract Metrics</h2>
 
 <div align="center">
 
 ```text
-Total Smart Contracts Deployed: 25+
+Total Smart Contracts Deployed: 10+
 Protocol Security Score: 95/100
 Gas Optimization Level: Advanced
-Audit Experience: 3+ Years
+Audit Experience: 2+ Years
 ```
 
 </div>
