@@ -2,9 +2,11 @@
 
 <a href="https://www.blockchainmonk.dev/"><img src="assets/header.svg" width="100%" alt="Duclair Fopa Kuete: Founder & CTO. I build financial and accessibility infrastructure for Africa."></a>
 
-<a href="https://www.linkedin.com/posts/duclair-fopa_nolos-build-log-1-from-alphabet-to-automaton-ugcPost-7521656691134836736-7Xbz/"><img src="assets/nolos.svg" width="100%" alt="Now building Nolos: a programming language where a lost transaction won’t compile. Read build log #1 on LinkedIn."></a>
-
 I’m a full stack blockchain developer from Dschang, Cameroon, with over 4 years of experience in blockchain architecture, smart contracts and AI integration. I started as an engineer shipping other people’s products. Today I build my own, from a sign language extension for 1.5 billion people to the rails that move money across Africa.
+
+<a href="https://www.linkedin.com/posts/duclair-fopa_nolos-build-log-1-from-alphabet-to-automaton-ugcPost-7521656691134836736-7Xbz/"><img src="assets/nolos.svg" width="100%" alt="Now building Nolos: A programming language where a lost transaction won’t compile."></a>
+
+**Nolos** is the programming language I’m building for payments: money is a type, uncertainty is part of the grammar, and a program that could lose a transaction doesn’t compile. Milestones M0 to M2 are done; next is the type checker. Follow the build: [build log #1](https://www.linkedin.com/posts/duclair-fopa_nolos-build-log-1-from-alphabet-to-automaton-ugcPost-7521656691134836736-7Xbz/) · [LinkedIn](https://www.linkedin.com/in/duclair-fopa/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg">
