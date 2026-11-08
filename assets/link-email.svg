@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 56" width="129" height="56" fill="none" role="img" aria-label="Email"><title>Email</title><style>
+@media (prefers-reduced-motion: no-preference) {
+  .draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.8s cubic-bezier(.65,0,.2,1) .3s forwards; }
+  .float { animation: float 7s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .float.b { animation-duration: 8.5s; animation-delay: -3s; }
+  .float.c { animation-duration: 6s; animation-delay: -1.5s; }
+  .spin { animation: spin 24s linear infinite; transform-box: fill-box; transform-origin: center; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+}
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes float { 50% { transform: translateY(-10px); } }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes pulse { 50% { opacity: .45; } }
+</style><rect x="0.5" y="0.5" width="128" height="55" rx="28" fill="#0e0e1a" stroke="rgba(255,255,255,0.18)"/><g transform="translate(24 16)"><rect x="2.5" y="5" width="19" height="14" rx="2" stroke="#fff" stroke-width="1.8"/><path d="m3 6.5 9 6.5 9-6.5" stroke="#fff" stroke-width="1.8"/></g><path fill="#f4f4f5" d="M59.5 34L59.5 21.0L61.0 21.0L61.0 34ZM60.3 34L60.3 32.7L68.2 32.7L68.2 34ZM60.3 27.9L60.3 26.6L67.5 26.6L67.5 27.9ZM60.3 22.3L60.3 21.0L68.0 21.0L68.0 22.3ZM70.9 34L70.9 24.8L72.2 24.8L72.2 26.9L72.3 26.9L72.3 34ZM77.1 34L77.1 27.9Q77.1 26.8 76.6 26.3Q76.1 25.9 75.3 25.9Q74.4 25.9 73.8 26.3Q73.1 26.6 72.7 27.3Q72.3 28.1 72.3 29.0L72.1 26.8Q72.6 25.8 73.5 25.2Q74.4 24.6 75.5 24.6Q76.9 24.6 77.7 25.4Q78.5 26.2 78.5 27.5L78.5 34ZM83.3 34L83.3 27.9Q83.3 26.8 82.8 26.3Q82.3 25.9 81.4 25.9Q80.6 25.9 80 26.3Q79.3 26.6 78.9 27.3Q78.5 28.1 78.5 29.0L78.2 26.8Q78.6 25.8 79.6 25.2Q80.6 24.6 81.7 24.6Q83.0 24.6 83.9 25.4Q84.7 26.2 84.7 27.5L84.7 34ZM93.1 34Q93.0 33.6 93 33.3Q92.9 32.9 92.9 32.2L92.8 32.2L92.8 27.9Q92.8 26.8 92.4 26.3Q91.9 25.8 90.8 25.8Q89.8 25.8 89.2 26.2Q88.5 26.7 88.5 27.4L87.1 27.4Q87.2 26.1 88.2 25.4Q89.2 24.6 90.9 24.6Q92.6 24.6 93.4 25.4Q94.2 26.2 94.2 27.8L94.2 32.2Q94.2 32.6 94.3 33.1Q94.4 33.5 94.4 34ZM89.9 34.1Q88.5 34.1 87.6 33.4Q86.8 32.7 86.8 31.5Q86.8 30.3 87.6 29.7Q88.5 29.0 90.0 28.7L93.3 28.2L93.3 29.4L90.3 29.9Q89.3 30.0 88.7 30.4Q88.2 30.8 88.2 31.5Q88.2 32.2 88.7 32.6Q89.2 32.9 90.1 32.9Q91.3 32.9 92.1 32.4Q92.8 31.8 92.8 30.9L93.1 32.2Q92.8 33.1 91.9 33.6Q91.1 34.1 89.9 34.1ZM97.0 34L97.0 24.8L98.5 24.8L98.5 34ZM96.9 22.7L96.9 21.0L98.6 21.0L98.6 22.7ZM101.3 34L101.3 21.0L102.8 21.0L102.8 34Z"/></svg>
